@@ -8,8 +8,9 @@ package Practica6;
 import java.io.File;
 
 /**
- *
- * @author jes19
+ * Programa de prueba de los métodos de la clase file
+ * @author Félix Delgado Ferro
+ * @author Jesús Enrique 
  */
 public class FileDemo {
     static void p(String s){
