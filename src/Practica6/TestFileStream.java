@@ -13,7 +13,8 @@ import java.io.OutputStream;
 
 /**
  *
- * @author jes19
+ * @author Félix Delgado Ferro
+ * @author Jesús Enrique Fernández-Aparicio Ortega
  */
 public class TestFileStream {
     public static void main(String[] args) throws FileNotFoundException, IOException{

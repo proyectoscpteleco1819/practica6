@@ -8,8 +8,9 @@ package Practica6;
 import java.util.Scanner;
 
 /**
- *
- * @author jes19
+ * Programa que lee los datos de un fichero
+ * @author Félix Delgado Ferro
+ * @author Jesús Enrique Fernández-Aparicio Ortega
  */
 public class ReadData {
 

@@ -10,7 +10,7 @@ import java.io.File;
 /**
  * Programa de prueba de los métodos de la clase file
  * @author Félix Delgado Ferro
- * @author Jesús Enrique 
+ * @author Jesús Enrique Fernández-Aparicio Ortega
  */
 public class FileDemo {
     static void p(String s){

@@ -9,8 +9,9 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import java.io.File;
 /**
- *
- * @author jes19
+ * Programa que reemplaza un string por otro en un fichero
+ * @author Félix Delgado Ferro
+ * @author Jesús Enrique Fernández-Aparicio Ortega
  */
 public class ReplaceText {
     public static void main(String[] args) throws FileNotFoundException{
